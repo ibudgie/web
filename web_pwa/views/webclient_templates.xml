@@ -7,7 +7,7 @@
             <!-- Add iOS meta tags and icons -->
             <meta name="apple-mobile-web-app-capable" content="yes"/>
             <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
-            <meta name="apple-mobile-web-app-title" content="Odoo PWA"/>
+            <meta name="apple-mobile-web-app-title" content="MeteoBudgie"/>
             <link rel="apple-touch-icon" href="/web_pwa/static/img/icons/icon-152x152.png"/>
             <!-- Add meta theme-color -->
             <meta name="theme-color" content="#2E69B5" />

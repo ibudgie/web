@@ -1,7 +1,7 @@
 The following system parameters con be set to customize the appearance of the application
 
-* pwa.manifest.name (defaults to "Odoo PWA")
-* pwa.manifest.short_name (defaults to "Odoo PWA")
+* pwa.manifest.name (defaults to "MeteoBudgie")
+* pwa.manifest.short_name (defaults to "MeteoBudgie")
 * pwa.manifest.icon128x128 (defaults to "/web_pwa/static/img/icons/icon-128x128.png")
 * pwa.manifest.icon144x144 (defaults to "/web_pwa/static/img/icons/icon-144x144.png")
 * pwa.manifest.icon152x152 (defaults to "/web_pwa/static/img/icons/icon-152x152.png")
